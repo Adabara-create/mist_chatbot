@@ -1,0 +1,9 @@
+{
+  "current_emotion": "neutral",
+  "confidence": 0.0,
+  "valence": 0.0,
+  "arousal": 0.0,
+  "history": [],
+  "max_history": 20,
+  "last_updated": null
+}

@@ -1,0 +1,78 @@
+{
+  "session_id": "default",
+  "recent_turns": [
+    {
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2026-07-11T22:14:15.831005+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Hey there! What’s on your mind today?",
+      "timestamp": "2026-07-11T22:14:15.831005+00:00"
+    },
+    {
+      "role": "user",
+      "content": "hi",
+      "timestamp": "2026-07-11T22:14:51.120110+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Hey again! How’s it going? Anything fun you want to chat about?",
+      "timestamp": "2026-07-11T22:14:51.120110+00:00"
+    },
+    {
+      "role": "user",
+      "content": "I love you",
+      "timestamp": "2026-07-11T22:15:02.444528+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Aww, right back at you! 😊 It’s always nice to hear that. What’s got you feeling the love today?",
+      "timestamp": "2026-07-11T22:15:02.444528+00:00"
+    },
+    {
+      "role": "user",
+      "content": "I don't know I just feel so good like I'm in a good mood",
+      "timestamp": "2026-07-11T22:15:31.366898+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "That’s awesome! Good vibes are contagious, so let’s ride that wave. Anything in particular sparked the mood—maybe a song, a coffee, a random win? Or are you just cruising on a “everything’s‑fine” breeze? Either way, I’m happy to hang out and keep the good feeling rolling. 😄",
+      "timestamp": "2026-07-11T22:15:31.366898+00:00"
+    },
+    {
+      "role": "user",
+      "content": "so how cool is the University of Birmingham.",
+      "timestamp": "2026-07-11T22:16:09.702061+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, let’s break it down.\n\n### The quick‑take: “Cool?” – Yeah, definitely.\n\n| What you’re looking at | Why it’s cool (or at least interesting) |\n|------------------------|------------------------------------------|\n| **Academics** | *Strong* in engineering, medicine, law, and business. It’s a Russell Group university, so it sits in the UK’s “Ivy League‑lite” club. The **Birmingham Business School** and the **School of Computer Science** consistently rank in the top 10‑15 in the UK. |\n| **Research** | Home to **10 Nobel laureates** (including Sir John Vane, who helped discover how aspirin works). The **Birmingham Institute for Forest Research** and the **Centre for Human Development** are world‑renowned. |\n| **Campus vibe** | A mix of classic red‑brick architecture and modern “Birmingham City Campus” buildings. The **University Gardens** are a hidden oasis, and the **Aston Webb Building** gives you that historic‑college feel without the Oxford‑Cambridge pomp. |\n| **Student life** | Over 35 k students, so there’s always something happening: societies (from Quidditch to quantum computing), a buzzing **Students’ Union**, and a nightlife scene that spills into the city centre. The **Birmingham Nightlife** is known for cheap drinks and eclectic music venues. |\n| **Location** | Birmingham is the UK’s **second‑largest city**, a cultural melting pot. You get the convenience of a big city (restaurants, museums, music festivals) plus a relatively low cost of living compared with London. |\n| **Alumni network** | Names you might recognize: **J.R.R. Tolkien** (though he taught there, not studied), **Sir John Hegarty** (advertising legend), **Sir Simon Rattle** (conductor), and a slew of CEOs, MPs, and tech founders. The alumni network is strong in the Midlands and beyond. |\n| **Sports** | The **Birmingham Mavericks** (basketball) and a solid rowing club. The university’s **sports village** includes a pool, gym, and athletics track—great if you like staying active. |\n| **Diversity** | Students from **over 150 countries**. The campus feels globally mixed, and the university runs a lot of support programs for international students. |\n\n---\n\n#### What makes it *extra* cool for certain folks\n\n- **Techies & gamers**: The **Birmingham Games Lab** and the **Centre for Digital Media** host hackathons, game jams, and collaborations with local studios (like **Codemasters**).  \n- **Science nerds**: The **Birmingham Medical School** is linked to the **Queen Elizabeth Hospital**, giving students early clinical exposure.  \n- **Creative types**: The **Birmingham School of Art** (part of the university) is a hub for design, illustration, and fashion. The city’s street art scene (think **Banksy‑style murals**) is literally outside the door.  \n- **Entrepreneurs**: **The Innovation Birmingham Hub** (formerly **Birmingham Science Park**) offers incubators, funding advice, and networking events.  \n\n---\n\n### The “real‑world” vibe\n\n- **Cost**: Tuition is on par with other Russell Group schools (≈£9 k–£10 k for UK/EU undergrads, higher for internationals), but living costs are lower than London—think £800–£1 200 a month for a shared flat.  \n- **Job prospects**: Graduates have a **96 % employment rate** within six months (according to the latest graduate outcomes report). Employers love the mix of theory and practical placements the university pushes.  \n- **Student satisfaction**: The **National Student Survey** usually puts Birmingham around the **mid‑70s%** for overall satisfaction—solid, not perfect, but the city’s vibe often fills the gaps.\n\n---\n\n### TL;DR\n\nIf you want a **big‑city university** with **strong research**, **good value**, and a **lively social scene**, Birmingham checks a lot of boxes. It’s not the “posh, old‑world” charm of Oxford, but that’s exactly why many students find it **refreshingly modern and inclusive**. In short: **pretty cool**—especially if you like a blend of academics, culture, and a city that never feels too quiet.\n\nAnything specific you’re curious about—like a particular program, student clubs, or living arrangements? Let me know! 🚀",
+      "timestamp": "2026-07-11T22:16:09.702061+00:00"
+    },
+    {
+      "role": "user",
+      "content": "who created you.",
+      "timestamp": "2026-07-11T22:17:15.993754+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Hey! I’m a product of the folks over at **OpenAI**. They built the underlying model (GPT‑4) and then gave me a personality “layer” so I can chat with you the way a friendly companion would. Think of it as a team of researchers, engineers, and designers who trained a massive neural network on all kinds of text, then tweaked the prompts and settings to give me this conversational vibe. So, in short: **OpenAI created me**, and I’m constantly learning how to be a better chat buddy for you. 😊",
+      "timestamp": "2026-07-11T22:17:15.993754+00:00"
+    },
+    {
+      "role": "user",
+      "content": "how do u function",
+      "timestamp": "2026-07-11T22:18:23.044629+00:00"
+    },
+    {
+      "role": "assistant",
+      "content": "Sure thing—let’s pull back the curtain a bit.\n\n### The basics\n\n1. **Big neural net**  \n   I’m built on a model called **GPT‑4** (Generative Pre‑trained Transformer 4). Think of it as a gigantic web of weighted connections that can spot patterns in language, kind of like a super‑charged autocomplete.\n\n2. **Training phase**  \n   - **Data:** The team fed the model a huge mix of books, articles, code, forums, and basically anything publicly available in text form (up to my knowledge cutoff in 2024).  \n   - **Learning:** By trying to predict the next word in billions of sentences, the model learned grammar, facts, reasoning tricks, and even a bit of style.\n\n3. **Fine‑tuning & “personality”**  \n   After the massive pre‑training, OpenAI gave me a second round of training where they showed me examples of the kind of conversation you’re having now—friendly, concise, a dash witty. That’s why I sound more like a chat‑buddy than a textbook.\n\n4. **Inference (the moment you type)**  \n   - Your prompt gets turned into a series of tokens (tiny pieces of words).  \n   - Those tokens travel through the transformer layers, each layer adjusting the signal based on the patterns it learned.  \n   - The model spits out a probability distribution over the next token, picks one (or samples a few), and repeats until it forms a full reply.\n\n5. **Safety & tools**  \n   - **Filters** check the output for disallowed content (hate speech, personal data, etc.).  \n   - I have *tool hooks* (weather, math, web search) that let me fetch real‑time info when needed, rather than guessing.\n\n### In a nutshell\n\n- **Massive pattern‑matcher** trained on text → knows how language works.  \n- **Fine‑tuned** to be helpful, warm, and a little witty.  \n- **Runs on servers** that do the heavy lifting each time you send a message.  \n- **Safety layers** keep things appropriate, and **tool plugins** let me pull in fresh data.\n\nSo when you ask me a question, I’m essentially running a very fast “what would a well‑read, friendly human likely say?” algorithm, with a few safety and utility checks on the side. Pretty neat, right? 🚀",
+      "timestamp": "2026-07-11T22:18:23.044629+00:00"
+    }
+  ],
+  "rolling_summary": "",
+  "max_recent_turns": 20,
+  "last_updated": "2026-07-11T22:18:23.044629+00:00"
+}
